@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Bootcamp-Java-IA.iml" filepath="$PROJECT_DIR$/.idea/Bootcamp-Java-IA.iml" />
-      <module fileurl="file://$PROJECT_DIR$/javabasico/javabasico.iml" filepath="$PROJECT_DIR$/javabasico/javabasico.iml" />
     </modules>
   </component>
 </project>
